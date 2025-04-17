@@ -1,3 +1,5 @@
+This Power BI report provides an insightful analysis of Uber trip data for the month of June 2024. The dashboard allows users to explore key metrics related to trip performance, ride frequency, revenue generation, driver ratings, trip duration, and more, giving a comprehensive view of Uber's operations during this period.
+
 
 Key Features:
 Trip Overview: Explore key metrics including the total number of trips, average trip distance, total fare collected, and average fare per trip for June 2024.
